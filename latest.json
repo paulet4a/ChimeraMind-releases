@@ -1,11 +1,11 @@
 {
-  "version": "1.1.6",
-  "notes": "Dynamic version display in sidebar with update notification",
-  "pub_date": "2026-01-26T00:30:00Z",
+  "version": "1.1.8",
+  "notes": "Auto-update system fix with new signing key",
+  "pub_date": "2026-01-26T01:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTlViVFlnTFgra0ozcjZHWUhNMitmRlJpaFYyblZWMlFXdERxN2R6T01qcGpNMHpQUGNzaUgzbTZ2c2ttVUErVHJTZm9YNGNueG84a25LRDZHdmUweWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTM4NjczNQlmaWxlOkNoaW1lcmFNaW5kXzEuMS42X3g2NC1zZXR1cC5uc2lzLnppcApmVjZMN3I3eUtrMGJ4bmhkR0lPMmdlUzYzdXM3eHpoVTRmUkNYdjRmbkxmK3RjVXJhdGVRcExxMEJLVWJIN2l5ZGcycU9waFRKNWZaTDZXa1kvbDJEdz09Cg==",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.1.6/ChimeraMind_1.1.6_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTlRaNGdvM2dmWXFsVUZQMzBwdEZDRDRHUDhEVmVrcWc5YTI4S3o3NnJTYmt5QlhvWDBFRzE3cU5pZnk5bElBdU9zeU1RZ3J5YUNJVGczd08rUnFab0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTM4NzcwNQlmaWxlOkNoaW1lcmFNaW5kXzEuMS44X3g2NC1zZXR1cC5uc2lzLnppcAp1alovME9EZk54TGxsdHNoUUV1ZGZERG5kY211VW8za3JJS3NFdEs2Szl0WWNrRHYzNGVHa09KeFNwUjBRYU9TOWhTaHYwZGdCTVczdmRTV256UmtFQ2c9PQo=",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.1.8/ChimeraMind_1.1.8_x64-setup.nsis.zip"
     }
   }
 }
