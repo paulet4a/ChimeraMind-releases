@@ -1,0 +1,11 @@
+{
+  "version": "1.1.5",
+  "notes": "Auto-update fix with new signing key",
+  "pub_date": "2026-01-26T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTlNkVjg0ZDdMZ3gwRStLUUQ3RmJnRTZacWlTY2h3RjA0aGVpRGNSUU5PVWlWU3BoVFU1WGUwclltaFZWS29iLzdnR0ZUcGRLTFdYdi93WjNpTnhVL2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTM4NTU3NglmaWxlOkNoaW1lcmFNaW5kXzEuMS41X3g2NC1zZXR1cC5uc2lzLnppcApsbS84NUJMRWg4VjlKY0J3U3RrdG9qcnJCV1JuWXRmUFBwZ2ZKMXFGRHR6b1J5T2htaEozdmhPeUdhNUY2RHd0eWU2U2c0RTlESXo4elkvNGUrY3dCdz09Cg==",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.1.5/ChimeraMind_1.1.5_x64-setup.nsis.zip"
+    }
+  }
+}
