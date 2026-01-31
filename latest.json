@@ -1,1 +1,11 @@
-{"version":"1.2.4","notes":"BTC widget size optimized, Journal page overlay fix","pub_date":"2026-01-27T00:00:00Z","platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdXRUNE82bWt2UUlnem5yNTF0ZHJLbDhCUm9BWnVJN0VwcGVVUm1tb3o0QlI4a3lCYy8rcmRKZ05lNVkvbUxhcnhkQnNhVzlTYnVEWTBPeGV4YWpjNVFRbWUrS3VFRXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDY0NTk4CWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjRfeDY0LXNldHVwLm5zaXMuemlwCmlBOTlKOHJRTDMxczZWSUUzWlUrWTFha3l4S2tJUTNPV29KUE1tNERrejlkZWZPUm92dzM1QjNRejNqZEttMnM3a0V5VE9oSklDWExrUmEyeHMyR0JBPT0K","url":"https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.2.4/ChimeraMind_1.2.4_x64-setup.nsis.zip"}}}
+{
+  "version": "1.2.4",
+  "notes": "Version sync and dependency fixes",
+  "pub_date": "2026-01-31T04:50:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTmU2cDlyRFVuL1VCdGxrU2sveXZlSXdCWjdBaFJCT094dll2NGFWYm9EbmhTVFk4R0ZSN3Q4emV6Ti8zN0dSMWhUeFJndVBMdzFlK0RkSUErUEJwVHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI0NTY3CWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjRfeDY0LXNldHVwLm5zaXMuemlwCmxLYThnbEVlTGdBK0Q0Y2NIc3hSVk01SDlrMGtZOENtOXNqcC84bHJOb0M2SHVtNWl0M1cvN1l1V3pRZGNKR040NC9NOG1GMElCUmdudFhTdWJ2U0NBPT0K",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.2.4/ChimeraMind_1.2.4_x64-setup.nsis.zip"
+    }
+  }
+}
