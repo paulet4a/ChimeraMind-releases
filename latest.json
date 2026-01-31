@@ -1,11 +1,11 @@
 {
-  "version": "1.2.5",
-  "notes": "Fixed sidebar update indicator - improved Tauri detection and auto-update reliability",
-  "pub_date": "2026-01-31T05:25:00Z",
+  "version": "1.2.6",
+  "notes": "Fixed admin login - admin/admin credentials now work for local desktop builds",
+  "pub_date": "2026-01-31T06:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTmE0UEszMlhaVXNaL1RWRDZjM3Z5VmM5UzRzYm5rd0hOaGY0ZEVScXNMeDlNazJienhmUkM1UnZGV3RUOHg1NWE3d2hXbDdaRDQ2d3NJNEd1ZkhSRlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI2MDY4CWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjVfeDY0LXNldHVwLm5zaXMuemlwCmFseWd4a2pEb3FHd21JMStQZmh5OElrdUdXZjlPQmxwS1NQSVdOZUt6QlNkS1luUWJDQ01iVkVtcklNcmpjOCtRRVF3N0tGbG1UOUoyNmJ5bkwveERBPT0K",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.2.5/ChimeraMind_1.2.5_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTlp5VXJiUHU5dFEwM1lmRHh6THdJRjllS3YwU1NsWkZFeUZleWk1ODNWVFJZbTJwVXE5aFZweCs2QUZEYkFJZ2lUeGpZcmtnaEJSc2JiYys5dmo5aFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI2NjU2CWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjZfeDY0LXNldHVwLm5zaXMuemlwCkNGSWRtckh5Z2hEdTZVdTF0L2lJZ2dvbm5Ga0RiVThleDcwRkQxNklOcFYvSkNiRCtVUTlwSVNENEhKR1Y5ZmtmTkhoNCtrZXlqb2h0U0JXaFphS0N3PT0K",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.2.6/ChimeraMind_1.2.6_x64-setup.nsis.zip"
     }
   }
 }
