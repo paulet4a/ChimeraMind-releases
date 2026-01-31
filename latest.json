@@ -1,11 +1,11 @@
 {
-  "version": "1.2.8",
-  "notes": "Dashboard layout fix and improved auto-update detection",
-  "pub_date": "2026-01-31T06:45:00Z",
+  "version": "1.2.9",
+  "notes": "Improved dashboard layout - closer to sidebar",
+  "pub_date": "2026-01-31T07:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTlpZbmd3RXROdHV1YUdxdS9rcUtxQnVaUldFQmRxU3FobU1EcnJ4QjVWZXBscEYzSFpBdllBSnBRV2dNK1h5RWRjY3E5VnJFbTVXTHZPaTJFZ0s0NXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI4MzQ4CWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjhfeDY0LXNldHVwLm5zaXMuemlwCmJoVEVQTXpyUEZ1WDdlNUJ4RTJrRkxVa1lPcGppYkppR3VkeWNDQ1NNeDFaWExWWW9EbEc3bVludlZvWFRNVG5vS1Z0TEs3ZTFVSEJTMExpamlLa0NRPT0K",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.2.8/ChimeraMind_1.2.8_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTmVleWtsUkRJOEtJQ3BmbDNUZno2RytiWkxaS3FIK1RQd2NtY0V6ZWphQkhpZTJxTEVvN1VrU005MnI1SWh3V0hGMkxmZE5VREdWei9WS3ZPQ1RlZ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI4OTc3CWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjlfeDY0LXNldHVwLm5zaXMuemlwCkdmUXpXamhLd3ZxUHM3akU0Q3h5dHpscVZrZCtVMmlmTkJZTGl4RzlFK0JDNWR3eVdaMWROU1FLMFRrUGl2OHFzS0RVNStZSWZ3VkNvZlJJZEM1MkNnPT0K",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.2.9/ChimeraMind_1.2.9_x64-setup.nsis.zip"
     }
   }
 }
