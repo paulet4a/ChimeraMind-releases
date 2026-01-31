@@ -1,11 +1,11 @@
 {
-  "version": "1.2.7",
-  "notes": "Reduced password min length to 4 chars, extended session to 1 week",
-  "pub_date": "2026-01-31T06:10:00Z",
+  "version": "1.2.8",
+  "notes": "Dashboard layout fix - reduced left margin for better spacing",
+  "pub_date": "2026-01-31T06:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTlo3OE5QNjhaWm5xblVNNUNMNzdTQmNXQlRsT0IybTFPQlVLR0xxWm8wdUhoRzVNbHVxUFByVVRZSEVSR2xRa0JPZENHYXNNR21VK1o4c3ZYaHA5Q3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI3MTA0CWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjdfeDY0LXNldHVwLm5zaXMuemlwCmUyd05CQWZqMCtJbFJJSUswV0tWNEo5M0tjeVFLWWJOWEJKOGNZc0xDR1FaZjVWTjVVdnZDU0lIaDJ5M3c5cm5RcjFiakkyZGJHSnk0OXRGQmdzekJBPT0K",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.2.7/ChimeraMind_1.2.7_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTllqaisvTVlvaWYrRWhDMVNURHMrZE5QaTQ3MlhVN1A4Sm5jK2tFWUo1T2tuWktuT3FCV3huYWx6akRKdmVUeTEvQU1qREhuS0Y1TFVzY004dXlSdXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI3ODEwCWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjhfeDY0LXNldHVwLm5zaXMuemlwCndNUkxZQ0RMQ2RDY3dYMmY2b0J3L0VtOHR5UGR0dWo3S0NhM3B1YnZ1TFhyZlk4OXllQ1BlVlhXbm5QWFdueTQ4L3V1SGw2SGQrL2FwSDhMT1N5NEJRPT0K",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.2.8/ChimeraMind_1.2.8_x64-setup.nsis.zip"
     }
   }
 }
