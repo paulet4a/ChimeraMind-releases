@@ -1,11 +1,11 @@
 {
-  "version": "1.3.4",
-  "notes": "UI/UX Standardization - 21 pages refactored with unified Cyan theme and PageTemplate component",
-  "pub_date": "2026-01-31T08:30:00Z",
+  "version": "1.3.5",
+  "notes": "Performance optimizations: 50% smaller bundle, lazy loading for CopilotChat and 3D components, offline support via Service Worker, font optimizations",
+  "pub_date": "2026-01-31T16:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSG5ZTzd3ZjNoOFF3OHI3d3gxcDByYko1N1cwalkwaEFQZ2taNFZIZjRMVGIxNVZxL0g3cFVIY3R5QW8vdWlTb3JndE1GaFg1cFJjQnEwTVN2bTE5YnR3MXJiYzlOMlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODM3OTI3CWZpbGU6Q2hpbWVyYU1pbmRfMS4zLjRfeDY0LXNldHVwLm5zaXMuemlwCjNBUU01ditrYm5hQS9pWm5McHZRTWd5Q1Vublp3TXE2Ry9WQisxb25jOG9zQUFlSGpNaFYwQVUwZWRyUVFGMllKMTdYb1QrQUcvUnJMRzZDdmYxNUNRPT0K",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.3.4/ChimeraMind_1.3.4_x64-setup.nsis.zip"
+      "signature": "sZooL4Xv1pUmR4vFmRgWtyWaIvOc2XamNVcb0ORvhVE4M/O7hSbJ6zcgvD26D0KYj3Zc2fyjZTi0Sg2NzP4ECQ==",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.3.5/ChimeraMind_1.3.5_x64-setup.nsis.zip"
     }
   }
 }
