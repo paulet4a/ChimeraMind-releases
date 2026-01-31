@@ -1,10 +1,10 @@
 {
   "version": "1.2.4",
-  "notes": "Version sync and dependency fixes",
-  "pub_date": "2026-01-31T04:50:00Z",
+  "notes": "Fixed updater sidebar indicator - improved Tauri detection",
+  "pub_date": "2026-01-31T05:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTmU2cDlyRFVuL1VCdGxrU2sveXZlSXdCWjdBaFJCT094dll2NGFWYm9EbmhTVFk4R0ZSN3Q4emV6Ti8zN0dSMWhUeFJndVBMdzFlK0RkSUErUEJwVHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI0NTY3CWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjRfeDY0LXNldHVwLm5zaXMuemlwCmxLYThnbEVlTGdBK0Q0Y2NIc3hSVk01SDlrMGtZOENtOXNqcC84bHJOb0M2SHVtNWl0M1cvN1l1V3pRZGNKR040NC9NOG1GMElCUmdudFhTdWJ2U0NBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTlMvZUVBZW5uMGdDVXpSRlovWWVyV0swNkFrcEwwL29GbXdtYmlVV09CWTd3cTlHZCt5SERhWS9TdFNmODhXOS82cTdNMk5rSnZONU1BMElkMkxwZGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODI1NTA0CWZpbGU6Q2hpbWVyYU1pbmRfMS4yLjRfeDY0LXNldHVwLm5zaXMuemlwCld3YVVMN2h6N3Y2QmdWWHlrVzJLMzczU0ZtMk1mQ3lxWW93K3pqaXV5K2tTbW5ZUndOUjgyUHc5MEZ0OUNubmJGT1pIQXR1UUdiYm5nZ0wwNGpLTERBPT0K",
       "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.2.4/ChimeraMind_1.2.4_x64-setup.nsis.zip"
     }
   }
