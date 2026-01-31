@@ -1,11 +1,11 @@
 {
-  "version": "1.3.3",
-  "notes": "Auto-update test release - Sidebar version indicator updated",
+  "version": "1.3.4",
+  "notes": "UI/UX Standardization - 21 pages refactored with unified Cyan theme and PageTemplate component",
   "pub_date": "2026-01-31T08:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTmFrK3FHcFhlajJ1cFpCT3BGRHpzK1FsUkdlVW56djhWTHl4ZDhVZ3l1M1ZMb015bkFpckhNYWJIS1FIakh5WjJiSWFrTEpGSFlUdlRteEE0ZTN4eEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODMyNzAzCWZpbGU6Q2hpbWVyYU1pbmRfMS4zLjNfeDY0LXNldHVwLm5zaXMuemlwCitkZ0lXQk4wVHpBS2tmQmFldk5NSkM3Yng1bkdIUXVkcWc4NUJLdmZPSWFzbHpXQjJSZUhJRnRYU1lLdDc4QzBLZTRzVThPcEdGaEZaYjY5V1R6U0F3PT0K",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.3.3/ChimeraMind_1.3.3_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRVJyK1ljUXBWUmxFVTQ0U043YjJrL0RkVGlseVJxVXRSTEd3Rlpaa0IwNVBsd1ZPRHhhcVBORURoSTNkWm9LYWpaZitPM1RXcC9TQ1ZPQ0xiQUlDT3YzaWt5TFhtMnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODM2ODg0CWZpbGU6Q2hpbWVyYU1pbmRfMS4zLjRfeDY0LXNldHVwLm5zaXMuemlwCnhpVVovbk9ETXpud2JYdkZ2OFpzc1hCY1lUVmZicFBzSmt3QTVob2Y1RFFtejdrRzNJc1NOLzZTNVpYdzJWaUlFR1FBUVNTZnh5Q0pKYnM2bVZ0RkR3PT0K",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.3.4/ChimeraMind_1.3.4_x64-setup.nsis.zip"
     }
   }
 }
