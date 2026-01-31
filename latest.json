@@ -1,11 +1,11 @@
 {
-  "version": "1.3.1",
-  "notes": "Unified typography - Inter font family with consistent sizing",
-  "pub_date": "2026-01-31T07:35:00Z",
+  "version": "1.3.2",
+  "notes": "Fixed auto-update - singleton pattern, centralized state, race condition resolved",
+  "pub_date": "2026-01-31T08:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTlYrRU1KMkx3VGlnQXdMZWVzMjg0ZFNReHBuYWFUZUpiM2dzYjQzQzVGRWkxa2NjZmVwWDYrTHBheHYyRGNaOWR4c0dmdG9ZK1pxZnVZdFNETnB5NkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODMwMTc5CWZpbGU6Q2hpbWVyYU1pbmRfMS4zLjFfeDY0LXNldHVwLm5zaXMuemlwClIybzFFL09hYnpOck9lUkRhK1FzZExmNXNmMkF1WFJGOEdDRiswQm5Cak9Bd01XVDdqWURTVUdpOGFMNnV4bWxlRXZYUWZMTHlHMkVqNmpRVmNya0NBPT0K",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.3.1/ChimeraMind_1.3.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbDRMbm95Tm9hTlpSME1CN1J1NE1rV3hTYWdBZCtNSTQrR1E2Sy8xNnNPME1QUGVONG9DTTR4VjBwNFZXV1FSVjRQa3hTQXBRcFJBSnk4TlREWlR2RmZ1dnZtRlUxL1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODMxNjIxCWZpbGU6Q2hpbWVyYU1pbmRfMS4zLjJfeDY0LXNldHVwLm5zaXMuemlwCkk1bkF4bnJiYnVBRGVpZHo2dTJkL3FEL3l2ejFpWFAyNmxMd0NSeStQWENnUEFXTXhGbG1OeEdrYVdXSVJUNTY2c3hmQzRjbXVjRE03TDBVQU9mUUNBPT0K",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v1.3.2/ChimeraMind_1.3.2_x64-setup.nsis.zip"
     }
   }
 }
