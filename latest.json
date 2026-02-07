@@ -1,11 +1,11 @@
 {
-  "version": "2.0.0",
-  "notes": "Major release: Cloud deployment (OVHcloud VPS), event-driven architecture, 10 Docker services, real-time paper trading, WebSocket live data, Binance integration, cyberpunk UI redesign",
-  "pub_date": "2026-02-07T02:20:00Z",
+  "version": "2.0.1",
+  "notes": "ChimeraMind v2.0.1",
+  "pub_date": "2026-02-07T06:20:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v2.0.0/ChimeraMind_2.0.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3dFYnZHM0kxclkvbGNoUndaVFh1TkN3S2RoMHFMWHFoZWgyZ2tIT3NBTmtZYzZDREhsOEpWVWdaZHh5eVdNVnIrWGladGxFYXRIdXlrbnQvSjh0T21XUFpnTGQwTHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDQ1MjQ3CWZpbGU6Q2hpbWVyYU1pbmRfMi4wLjFfeDY0LXNldHVwLm5zaXMuemlwCnc1T25Pd3lLdnY3dXJSbUUrTlVnT05ZYzQ0Q2VYZWovUUROOFVpZGpSOEV2SytHMzFzTzRIakhrZjJOcFR4dXRFNDdoNnA2ZktWaXlkU3B5RTV4UURnPT0K",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v2.0.1/ChimeraMind_2.0.1_x64-setup.nsis.zip"
     }
   }
 }
