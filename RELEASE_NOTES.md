@@ -1,71 +1,58 @@
-# ChimeraMind v1.3.5 - Release Notes
+# ChimeraMind v2.0.0 - Major Release
 
-**Release Date:** January 31, 2026
+**Release Date:** February 7, 2026
 
 ---
 
-## 🚀 Performance Optimizations
+## 🚀 Architecture Overhaul
 
-### Bundle Optimization
-- **50% smaller initial load** (~800KB → ~400KB)
-- Feature-based code splitting (manual chunks)
-- Optimized dependency pre-bundling
+### Event-Driven Architecture
+- Complete rewrite from FSM to event-driven system
+- ModuleRegistry with dependency-ordered startup
+- EventBus with 8 async workers for inter-module communication
+- 9 core modules: Data, ModelInference, FeatureAggregation, Decision, Risk, Trading, Execution, Monitoring, Metrics
 
-### Lazy Loading
-- **CopilotChat**: Loaded on-demand (saves ~15KB on startup)
-- **3D Components**: Loaded only in 3D-Hub (saves ~500KB)
-- **ActivityLog**: Lazy loaded with Intersection Observer (saves ~5KB)
+### Cloud Deployment
+- Production backend on OVHcloud VPS (Germany)
+- 10 Docker containers running 24/7
+- Real-time paper trading with Binance
+- Redis event bus for distributed communication
 
-### Prefetch Strategy
-- Critical chunks preloaded in background
-- DNS prefetch for external resources
-- Faster page transitions
+### Master-Worker Architecture
+- Master engine: 9 modules (decisions, risk, execution)
+- Worker engine: 3 modules (data, inference, features)
+- Horizontal scaling ready
 
 ---
 
 ## 🔧 New Features
 
-### Service Worker (Offline Support)
-- Full offline cache capability
-- Background sync (30-minute intervals)
-- Three cache strategies:
-  - **Cache First**: JS/CSS chunks
-  - **Network First**: HTML pages
-  - **Stale While Revalidate**: Fonts
+### Live Trading Dashboard
+- Real-time BTC/ETH/SOL/BNB/XRP price ticker
+- WebSocket live data streaming
+- Decision Council with AI verdict system
+- Cortex & Hunter status indicators
 
-### Intersection Observer
-- Smart component loading
-- Reduces initial render time
-- Shimmer placeholder effects
+### Cloud API
+- FastAPI backend at `http://51.195.109.14:8000`
+- Paper trading mode with full order simulation
+- Walk-forward analysis endpoints
+- System health monitoring
 
-### Font Loading Optimization
-- `font-display: swap` prevents FOIT
-- Removed unused fonts
-- Preconnect to Google Fonts
-
----
-
-## 🐛 Bug Fixes
-
-- Removed duplicate `sound.ts` service
-- Cleaned up debug console.log statements
-- Fixed TradingChart ResizeObserver memory leak
-- Updated all sound imports to use `sounds`
+### Desktop App
+- Cyberpunk-themed UI with dark mode
+- Tauri 2.x secure sandbox
+- Auto-updater support
+- System tray integration
 
 ---
 
 ## 📦 Installation
 
 ### Windows (Recommended)
-Download: `ChimeraMind_1.3.5_x64-setup.exe`
+Download: `ChimeraMind_2.0.0_x64-setup.exe`
 - Double-click to install
 - No administrator privileges required
-- Auto-updater included
-
-### Windows (MSI)
-Download: `ChimeraMind_1.3.5_x64_en-US.msi`
-- System-wide installation
-- Suitable for enterprise deployment
 
 ---
 
@@ -74,34 +61,18 @@ Download: `ChimeraMind_1.3.5_x64_en-US.msi`
 | Metric | Value |
 |--------|-------|
 | Build Size | ~4MB (installer) |
-| Runtime Memory | ~100MB |
-| Startup Time | <2 seconds |
-| Offline Support | ✅ Yes |
-
----
-
-## 🔐 Security
-
-- CSP (Content Security Policy) enabled
-- Localhost API proxy for secure communication
-- Tauri 2.x secure sandbox
+| Backend RAM | 3.4 GB / 12 GB |
+| Docker Services | 10 containers |
+| Supported Symbols | BTC, ETH, SOL, BNB, XRP |
+| Trading Mode | Paper (default) |
 
 ---
 
 ## 📝 Known Issues
 
-1. **First Launch**: May take 2-3 seconds for initial cache setup
-2. **3D Mode**: Requires WebGL 2.0 support
-3. **Offline Mode**: Real-time data requires internet connection
-
----
-
-## 🔄 Auto-Updater
-
-This version includes auto-updater. When a new version is available:
-1. Notification will appear
-2. Click "Download & Install"
-3. Application will restart automatically
+1. **Auto-update**: v1.x users must manually install v2.0.0 (signing key changed)
+2. **Trade History**: Portfolio page may timeout if no trades exist yet
+3. **Telegram Bot**: Requires TELEGRAM_TOKEN in .env
 
 ---
 
