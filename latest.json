@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/raw/main/ChimeraMind_2.0.0_x64-setup.nsis.zip"
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v2.0.0/ChimeraMind_2.0.0_x64-setup.nsis.zip"
     }
   }
 }
