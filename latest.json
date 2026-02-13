@@ -1,11 +1,11 @@
-{
-  "version": "3.0.1",
-  "notes": "ChimeraMind v3.0.1",
-  "pub_date": "2026-02-12T23:35:05Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3dFYnZHM0kxcmNqS21hUEJVNHozdnNwUlByQi9XQk93Tmc2a3VJcW9DL05sMytaRllWR2kwYkZ3dEVJYXVFNFNhSTFvNlIxMXUzTkJNWWdVT3JlZ1p0Q1N1MXZlOFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTM5MzAyCWZpbGU6Q2hpbWVyYU1pbmRfMy4wLjFfeDY0LXNldHVwLm5zaXMuemlwCnRBNGNETW5lTlRqSGhLQkw2dkY2UUFWbElVZkVqczRlRkNTZmdNTStlVGdkcHVwQXZRTmlvYnBNLzBOU3M4Rms0VDRvZ29xa2kxTHMxaS9ZRVhDdURnPT0K",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v3.0.1/ChimeraMind_3.0.1_x64-setup.nsis.zip"
-    }
-  }
+﻿{
+    "version":  "3.0.2",
+    "notes":  "ChimeraMind v3.0.2",
+    "pub_date":  "2026-02-13T11:47:00Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "",
+                                             "url":  "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v3.0.2/ChimeraMind_3.0.2_x64-setup.nsis.zip"
+                                         }
+                  }
 }
