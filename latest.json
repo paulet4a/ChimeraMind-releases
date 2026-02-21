@@ -1,11 +1,11 @@
 {
-  "version": "3.0.12",
-  "notes": "ChimeraMind v3.0.12",
-  "pub_date": "2026-02-17T14:57:56Z",
+  "version": "3.0.13",
+  "notes": "ChimeraMind v3.0.13",
+  "pub_date": "2026-02-21T14:38:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3dFYnZHM0kxclJzRDdEdFYxZ21rb3A3a0tnKzBxVUh4K2k2eURJSmVrZytUdjZlcGQ1WXZlLzlhTFozTDE3U0xvbTdRZ3pNTk95Mld2alBhU3BRaVV4azQvQm84U3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzQwMjc0CWZpbGU6Q2hpbWVyYU1pbmRfMy4wLjEyX3g2NC1zZXR1cC5uc2lzLnppcAp3MFk1c3ZkYXdsbVFyRk9LMDFCcnFuUys4Q0JlbDRST0lONVpuTVdlZ2UrdmVrakcwYUw5ZDNMNEdMeCsrTkU2UUxqc3VRZlNTMWI5enFRNTVOUUVEUT09Cg==",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v3.0.12/ChimeraMind_3.0.12_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3dFYnZHM0kxclg4aVQ4Z1VXVm42cmw3aVRTc3FVSWdJRkU4Z0w0ZHp6bEFJbEpyUzZzUkVxUzRVN2pmdHppVGxzTDJweTdvM3FDRVRSK1hEOVErRmZ5T2VuZlQvbVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjg0Njg5CWZpbGU6Q2hpbWVyYU1pbmRfMy4wLjEzX3g2NC1zZXR1cC5uc2lzLnppcAorYVIrRzcyb3hPRUJvdW1DRnJDRkxWRExReWpkblBRMDRiTkQ4eXphcUZVRXFIUGw3bUEyNGpqajBoTGYwRG8vZlpoWWQ0OEdSbGVDOFJscFZWUFVEZz09Cg==",
+      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v3.0.13/ChimeraMind_3.0.13_x64-setup.nsis.zip"
     }
   }
 }
