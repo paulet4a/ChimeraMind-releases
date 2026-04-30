@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security disclosure
+    url: mailto:security@chimeramind.com
+    about: Report a vulnerability privately. Do not file public issues for security findings.
+  - name: Product or sales question
+    url: mailto:hello@chimeramind.com
+    about: General questions, partnerships, press.
+  - name: Billing or subscription
+    url: mailto:support@chimeramind.com
+    about: Whop subscription, refund, plan questions.
+  - name: Status updates
+    url: https://x.com/ChimeraMindApp
+    about: Follow @ChimeraMindApp for build updates and incidents.
+  - name: Product site
+    url: https://chimeramind.com
+    about: Marketing site, download page, plans, documentation.
