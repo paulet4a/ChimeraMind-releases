@@ -1,0 +1,66 @@
+ChimeraMind Desktop — End User Licence
+Copyright (c) 2026 ChimeraMind. All rights reserved.
+
+The binary artefacts in this repository (the "Software") are made available
+solely for personal, non-commercial use by registered ChimeraMind account
+holders subject to the active subscription terms published at
+https://chimeramind.com/subscription-terms and the platform terms of service
+at https://chimeramind.com/terms.
+
+PERMISSIONS
+
+You are permitted to:
+  1. Download and install the Software on devices you own or control, in
+     accordance with your subscription tier limits.
+  2. Receive automatic updates served via the official Tauri update manifest
+     (`latest.json`) hosted in this repository.
+
+RESTRICTIONS
+
+You may not:
+  1. Redistribute, sub-license, sell, lease, rent, or otherwise transfer the
+     Software or any modified version to any third party.
+  2. Reverse engineer, decompile, disassemble, or otherwise attempt to derive
+     the source code, except to the extent expressly permitted by applicable
+     law.
+  3. Remove, alter, or obscure any copyright, trademark, signature, or other
+     proprietary notice contained in the Software.
+  4. Use the Software to operate a competing product or service, or to train
+     a derivative model.
+  5. Use the Software for any unlawful purpose or in any manner that violates
+     the laws or regulations of your jurisdiction.
+
+WARRANTY DISCLAIMER
+
+The Software is provided "AS IS" and "AS AVAILABLE", without warranty of any
+kind, express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, non-infringement, or
+quiet enjoyment.
+
+TRADING RISK
+
+ChimeraMind is a trading-decision support and execution platform. Live
+trading is opt-in, gated, and governed. Cryptocurrency markets are volatile.
+Past performance does not predict future results. The Software does not
+constitute financial, investment, legal, or tax advice. You alone are
+responsible for your trading decisions and outcomes.
+
+LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, in no event shall the
+ChimeraMind authors, owners, or contributors be liable for any indirect,
+incidental, special, consequential, or punitive damages, including but not
+limited to lost profits, lost capital, lost data, or business interruption,
+arising out of or in connection with the Software, even if advised of the
+possibility of such damages.
+
+TERMINATION
+
+Your rights under this licence terminate automatically if you breach any of
+its terms. Upon termination you must cease all use of the Software and
+remove all copies from devices you control.
+
+CONTACT
+
+For licensing questions, please contact `hello@chimeramind.com`.
+For security disclosures, see SECURITY.md or email `security@chimeramind.com`.
