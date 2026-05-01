@@ -1,6 +1,6 @@
 <div align="center">
 
-# ChimeraMind — Desktop Releases
+# ChimeraMiND — Desktop Releases
 
 **Trading, reimagined as an organism.**
 21 strategies as one antifragile mind. Adaptive. Governed. Audit-grade.
@@ -24,6 +24,8 @@ Get the latest desktop build from the [**Releases**](https://github.com/paulet4a
 
 > Recommended path for new users: <https://chimeramind.com/download> — picks the right artifact for your OS and walks you through onboarding.
 
+> Installer file names keep the lowercase `ChimeraMind_*` form for Tauri auto-updater compatibility. The brand display name is stylized **ChimeraMiND** elsewhere.
+
 ## Install
 
 ### Windows
@@ -31,7 +33,7 @@ Get the latest desktop build from the [**Releases**](https://github.com/paulet4a
 1. Download `ChimeraMind_<version>_x64-setup.exe` from the latest release.
 2. Run the installer.
 3. Windows SmartScreen may show **"Windows protected your PC"** — this is expected for newly published binaries that have not yet built a Microsoft reputation score. Click **More info → Run anyway**. The Microsoft Store / signed-MSIX path is on the post-beta roadmap.
-4. Sign in with your ChimeraMind account.
+4. Sign in with your ChimeraMiND account.
 
 ### Linux
 
@@ -41,7 +43,7 @@ Get the latest desktop build from the [**Releases**](https://github.com/paulet4a
 
 ## Auto-Update
 
-ChimeraMind ships with a Tauri 2 updater that:
+ChimeraMiND ships with a Tauri 2 updater that:
 
 - Fetches `latest.json` (this repo's `main` branch root, also proxied via `https://chimeramind.com/latest.json`).
 - Verifies the signed update payload (Ed25519, see `*.sig` artifacts).
@@ -70,7 +72,7 @@ sha256sum -c SHA256SUMS.txt --ignore-missing
 
 The desktop updater rejects any payload whose Ed25519 signature does not match the embedded public key. To verify manually, see Tauri's [`signtool verify`](https://v2.tauri.app/distribute/sign/) workflow against the `.sig` next to each binary.
 
-## What is ChimeraMind?
+## What is ChimeraMiND?
 
 A multi-strategy crypto futures execution platform built for traders who care about **process** as much as outcome:
 
@@ -92,7 +94,7 @@ Full overview: <https://chimeramind.com>
 
 ## License
 
-Desktop binaries are distributed under the ChimeraMind end-user license (see [LICENSE](LICENSE)). The application source code lives in a separate, private repository; this repository hosts release artifacts only.
+Desktop binaries are distributed under the ChimeraMiND end-user license (see [LICENSE](LICENSE)). The application source code lives in a separate, private repository; this repository hosts release artifacts only.
 
 <div align="center">
 <sub>Paper-mode default. Live trading is opt-in and governed.</sub>
